@@ -65,9 +65,3 @@ This document outlines the process of setting up a virtual machine (VM) with a L
 1. **Download**: Obtain the Metasploitable2 ISO from the [official SourceForge page](https://sourceforge.net/projects/metasploitable/).
 2. **Create VM**: Create a new VM and mount the Metasploitable2 ISO.
 3. **Start the VM**: Boot the VM and log in with the default credentials (`msfadmin`/`msfadmin`).
-
-
-Step 8: Take a Snapshot
-In VMware: Go to VM > Snapshot > Take Snapshot.
-
-   **Screenshot**: Capture the snapshot interface and the name of the snapshot taken.
